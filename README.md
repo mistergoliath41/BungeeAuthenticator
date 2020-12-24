@@ -1,6 +1,11 @@
 # BungeeAuthenticator
-
 Prevent direct connections to your Spigot server with a security token.
+
+## Used Librarie(s)
+https://github.com/mistergoliath41/YamlConfiguration
+
+## Spigot Link(s)
+https://www.spigotmc.org/resources/bungeeauthenticator.87043
 
 ## Description
 Based on the OnlyProxyJoin concept this plugin allows you to prevent direct connections to your Spigot server with a security token instead of detecting if connections come from your Bungeecord IP to prevent IP Spoofing.
