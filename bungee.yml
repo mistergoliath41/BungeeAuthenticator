@@ -1,0 +1,4 @@
+main: fr.mistergoliath.bungeeauthenticator.bungee.BungeeAuthenticator
+name: BungeeAuthenticator
+author: mistergoliath
+version: 1.0.0
